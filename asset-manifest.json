@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-live/static/css/main.e49f045d.css",
+    "main.js": "/code-live/static/js/main.f4edd1dd.js",
+    "index.html": "/code-live/index.html",
+    "main.e49f045d.css.map": "/code-live/static/css/main.e49f045d.css.map",
+    "main.f4edd1dd.js.map": "/code-live/static/js/main.f4edd1dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49f045d.css",
+    "static/js/main.f4edd1dd.js"
+  ]
+}
